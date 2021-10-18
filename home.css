@@ -1,0 +1,20 @@
+*{
+    margin: 40px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* nav designing */
+
+.navbar{
+
+}
+.LOGO img{
+   width: 90px;
+}
+.sub{
+    display: none;
+}
+a:hover > .sub{
+    display: block;
+}
